@@ -22,5 +22,4 @@ Welcome to the Cornell Notes App, a platform designed for efficient Cornell-styl
 - **Node.js**: Backend JavaScript runtime.
 - **Express.js**: Web application framework for Node.js, simplifying route handling and middleware integration.
 - **Embedded JavaScript (EJS)**: Templating engine for rendering dynamic content, simplifying the integration of server-side variables into HTML.
-- **Passport.js**: User authentication middleware for Node.js.
 - **MongoDB**: NoSQL database for storing user information and notes.
